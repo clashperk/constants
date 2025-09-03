@@ -1,1 +1,3 @@
-export const LEGEND_LEAGUE_ID = 0;
+export const SNOWFLAKE_REGEX = /^\d{17,19}/;
+
+export const TAG_REGEX = /^#?[0289CGJLOPQRUVY]+$/i;
